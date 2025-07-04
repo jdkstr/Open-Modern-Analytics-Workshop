@@ -1,0 +1,468 @@
+{
+    "search_metadata": {
+        "id": "6867e442e171b9b6ebe2f07c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2fe822e1ca9b39c6/6867e442e171b9b6ebe2f07c.json",
+        "created_at": "2025-07-04 14:25:06 UTC",
+        "processed_at": "2025-07-04 14:25:06 UTC",
+        "google_local_url": "https://www.google.com/search?q=Restaurant&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=60&tbm=lcl",
+        "raw_html_file": "https://serpapi.com/searches/2fe822e1ca9b39c6/6867e442e171b9b6ebe2f07c.html",
+        "total_time_taken": 5.54
+    },
+    "search_parameters": {
+        "engine": "google_local",
+        "q": "Restaurant",
+        "location_requested": "Prishtina, Pristina District, Kosovo",
+        "location_used": "Prishtina,Pristina District,Kosovo",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "de",
+        "start": 60,
+        "device": "desktop"
+    },
+    "local_results": [
+        {
+            "position": 1,
+            "rating": 4.8,
+            "reviews": 68,
+            "reviews_original": "(68)",
+            "lsig": "AB86z5VHP9lV5eRWaZjol9Tsi7wy",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996fa812e6f2cb12e9863a3c3213d7a4afe73140c7c699173281.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "kerbside_pickup": true,
+                "no_delivery": true
+            },
+            "place_id": "7602962369003317963",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=7602962369003317963&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.65205,
+                "longitude": 21.153606
+            },
+            "title": "Restaurant Dubrovnik",
+            "type": "Restaurant",
+            "address": "nr. 57 Idriz Gjilani"
+        },
+        {
+            "position": 2,
+            "rating": 4.6,
+            "reviews": 70,
+            "reviews_original": "(70)",
+            "price": "€€€€",
+            "lsig": "AB86z5WvgLc5broSIN9vK75lvJmJ",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f3a4b7aa0dacbd1f473f818fe35d24850729208a02df661bd.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "kerbside_pickup": true,
+                "delivery": true
+            },
+            "place_id": "5329537598039273253",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=5329537598039273253&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.648132,
+                "longitude": 21.169497
+            },
+            "title": "Restaurant Trattoria",
+            "type": "Italian",
+            "address": "Agim Ramadani"
+        },
+        {
+            "position": 3,
+            "rating": 4.5,
+            "reviews": 143,
+            "reviews_original": "(143)",
+            "lsig": "AB86z5UdIXQuEP9DnP1KFZbjQ4-M",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996fb7dd192f6dbc7ed78e5f0a1981240021d5ef9f7dc507b951.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true
+            },
+            "place_id": "7616825931703305459",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=7616825931703305459&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.65131,
+                "longitude": 21.166039
+            },
+            "title": "Gizzi Restaurant",
+            "type": "Restaurant",
+            "address": "20 Xheladin Rekaliu"
+        },
+        {
+            "position": 4,
+            "rating": 4.4,
+            "reviews": 31,
+            "reviews_original": "(31)",
+            "lsig": "AB86z5XceaqClB9MhQD--03ZvGC1",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f9ef01f2fff90098afb8a16ca47d2cd90d93736553012a3b1.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true
+            },
+            "place_id": "9539079879531068569",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=9539079879531068569&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.662903,
+                "longitude": 21.1655
+            },
+            "title": "Cavallero",
+            "type": "Mexican",
+            "address": "M578+566"
+        },
+        {
+            "position": 5,
+            "rating": 4.3,
+            "reviews": 111,
+            "reviews_original": "(111)",
+            "lsig": "AB86z5VvJNDC8esD9F7IQlTHVn8g",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996fc8c5101b6ec3c60efaf393e749be33f7e628d13eba714f7f.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true,
+                "delivery": true
+            },
+            "place_id": "7028025282314679865",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=7028025282314679865&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.66024,
+                "longitude": 21.15918
+            },
+            "title": "Pizzeria Napoli Vero",
+            "type": "Pizza",
+            "address": "Luan Haradinaj"
+        },
+        {
+            "position": 6,
+            "rating": 4.4,
+            "reviews": 170,
+            "reviews_original": "(170)",
+            "description": "Casual hostel with a bar & a terrace",
+            "lsig": "AB86z5Uu3iVnve44sqNF17Y4pcUc",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996faca99710d520635157daf321fd8284e2e03d76be715cc9da.jpeg",
+            "place_id": "14130413441758586717",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=14130413441758586717&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.657074,
+                "longitude": 21.154922
+            },
+            "title": "The White Tree",
+            "type": "Restaurant",
+            "address": "Mujo Ulqinaku, No 59"
+        },
+        {
+            "position": 7,
+            "rating": 5,
+            "reviews": 12,
+            "reviews_original": "(12)",
+            "lsig": "AB86z5WntpY7N51iBw_Jqi0i70a_",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f66fcabd81559ade530ac7167fd67b90f4449941dd3f0ca01.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true
+            },
+            "place_id": "14437254079270424311",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=14437254079270424311&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.65882,
+                "longitude": 21.170057
+            },
+            "title": "Centro",
+            "type": "Family-friendly",
+            "address": "10000 Rruga Ali Kelmendi"
+        },
+        {
+            "position": 8,
+            "rating": 5,
+            "reviews": 4,
+            "reviews_original": "(4)",
+            "lsig": "AB86z5XHCBRVzc5_gOiYklwjGAZ6",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f9d3fa1cfa8e042f02301aa7b549e2f420a30d2620538405e.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true
+            },
+            "place_id": "6248213062976863401",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=6248213062976863401&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.65838,
+                "longitude": 21.156595
+            },
+            "title": "Amalfi Due Restaurant",
+            "type": "Italian",
+            "address": "M554+9J5, Pashko Vasa"
+        },
+        {
+            "position": 9,
+            "rating": 4.5,
+            "reviews": 28,
+            "reviews_original": "(28)",
+            "lsig": "AB86z5VMBJbvRJbSqnZ13CdJdLTW",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996fb37994264088ba4e1d56170ca569c084ba195bbfd48196a5.jpeg",
+            "service_options": {
+                "dine_in": true
+            },
+            "place_id": "13997572131394897061",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=13997572131394897061&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.662907,
+                "longitude": 21.165497
+            },
+            "title": "Mansion Restaurant",
+            "type": "Restaurant",
+            "address": "Magjistrala -Gjilan, Km 2. Prishtina 10000"
+        },
+        {
+            "position": 10,
+            "rating": 4.8,
+            "reviews": 127,
+            "reviews_original": "(127)",
+            "lsig": "AB86z5Uf-xn4ot5RsSMQBbCIB7i3",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f9a00fe4885bb23323af3dc187592add66f41d21ce8a6c26a.jpeg",
+            "service_options": {
+                "dine_in": true
+            },
+            "place_id": "13877614625163601341",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=13877614625163601341&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.65316,
+                "longitude": 21.157963
+            },
+            "title": "Renaissance Restaurant",
+            "type": "Restaurant",
+            "address": "35 Musine Kokalari",
+            "hours": "Closed ⋅ Opens 5 pm"
+        },
+        {
+            "position": 11,
+            "rating": 4,
+            "reviews": 330,
+            "reviews_original": "(330)",
+            "price": "€€",
+            "lsig": "AB86z5UXLcqGJHkoC7cn7ptkEL_H",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996fcacb149ade9b6ed54c1e4676c8a4268beac7124b6a372240.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "kerbside_pickup": true,
+                "delivery": true
+            },
+            "place_id": "8164490628627963127",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=8164490628627963127&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.66258,
+                "longitude": 21.160198
+            },
+            "title": "SACHPIZZA - Qendër",
+            "type": "Pizza",
+            "address": "Rexhep Luci"
+        },
+        {
+            "position": 12,
+            "rating": 4.7,
+            "reviews": 65,
+            "reviews_original": "(65)",
+            "lsig": "AB86z5U9kTsqJr2JVxXf2NmddIqO",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f06b5300eb22d297fd80b62ec31f74f42e504b1195fb9b78e.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true,
+                "delivery": true
+            },
+            "place_id": "11707197841235208449",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=11707197841235208449&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.662907,
+                "longitude": 21.165497
+            },
+            "title": "Tokyo Asian Restaurant",
+            "type": "Sushi",
+            "address": "kompleksi fabrika e amortizatorëve, Rruga"
+        },
+        {
+            "position": 13,
+            "rating": 4.6,
+            "reviews": 36,
+            "reviews_original": "(36)",
+            "lsig": "AB86z5Xoh_ESUU61ktbmvXCYj74x",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f24ea86f4c967421ba28e671ae21e5e449e7dee409167fc41.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true
+            },
+            "place_id": "16969281750000879660",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=16969281750000879660&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.651497,
+                "longitude": 21.173655
+            },
+            "title": "RUBATO - Restaurant",
+            "type": "Family-friendly",
+            "address": "18 Hyzri Talla"
+        },
+        {
+            "position": 14,
+            "rating": 4.8,
+            "reviews": 30,
+            "reviews_original": "(30)",
+            "lsig": "AB86z5VAUqJCKytbj4zvQVNdPjHl",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f56d7a53e39bf8d024b029174d78e8395dd866e54d99332fc.jpeg",
+            "service_options": {
+                "takeaway": true
+            },
+            "place_id": "150268830882978879",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=150268830882978879&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.66377,
+                "longitude": 21.165848
+            },
+            "title": "Fast food Apetit",
+            "type": "Shawarma restaurant",
+            "address": "Bajram Kelmendi"
+        },
+        {
+            "position": 15,
+            "rating": 4.5,
+            "reviews": 26,
+            "reviews_original": "(26)",
+            "lsig": "AB86z5WUF50YCeCi1WtnSrO4Pmnb",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f4ed3b1ee5068999ad187a716045702757ec419e9e91d8584.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true
+            },
+            "place_id": "2131537777210825280",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=2131537777210825280&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.655426,
+                "longitude": 21.164566
+            },
+            "title": "Noble",
+            "type": "Restaurant",
+            "address": "Anton Çetta"
+        },
+        {
+            "position": 16,
+            "rating": 4.6,
+            "reviews": 206,
+            "reviews_original": "(206)",
+            "description": "Snug restaurant & hotel with a pool",
+            "lsig": "AB86z5VxQ2jR9o9C6GrbBeBw4tJ0",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f2f401268446b06f573de91477cfd57d394e6f0f039eb6919.jpeg",
+            "place_id": "2718423945380975359",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=2718423945380975359&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.66991,
+                "longitude": 21.155273
+            },
+            "title": "Hotel Pinocchio",
+            "type": "Restaurant",
+            "address": "24 Maji Nr.115 -, Arben Xheladini nr. 35"
+        },
+        {
+            "position": 17,
+            "rating": 4.6,
+            "reviews": 30,
+            "reviews_original": "(30)",
+            "lsig": "AB86z5XtJD1VSXIVJKcYJGKA-5Np",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f582442a21f3b9721c7b6e6282c7b6e71c54582a9e6ebfe81.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true
+            },
+            "place_id": "10332263909407390996",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=10332263909407390996&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.65423,
+                "longitude": 21.159538
+            },
+            "title": "Restaurant Te Fahriu",
+            "type": "Family-friendly",
+            "address": "Benafi"
+        },
+        {
+            "position": 18,
+            "rating": 4.7,
+            "reviews": 37,
+            "reviews_original": "(37)",
+            "lsig": "AB86z5WkdGaevwl8L6GrjjQvDPLR",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f05f0f6ac8023aa27c4c81db6a69a17913137aa5187cad6ed.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true
+            },
+            "place_id": "1383464223241071995",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=1383464223241071995&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.65046,
+                "longitude": 21.179014
+            },
+            "title": "Toks Restaurant",
+            "type": "Restaurant",
+            "address": "Enver Maloku"
+        },
+        {
+            "position": 19,
+            "rating": 4.5,
+            "reviews": 6,
+            "reviews_original": "(6)",
+            "lsig": "AB86z5XA7kJ6MhonVYKUM5WuYVgG",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f1e49d26a0d73697baa9c4ed4c9472b3e1fda4de02aab14d8.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true
+            },
+            "place_id": "1717615853648719213",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=1717615853648719213&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.66647,
+                "longitude": 21.152992
+            },
+            "title": "Umami Restaurant",
+            "type": "Restaurant",
+            "address": "24 Maji No.36 Arberia"
+        },
+        {
+            "position": 20,
+            "rating": 4.5,
+            "reviews": 68,
+            "reviews_original": "(68)",
+            "lsig": "AB86z5Vtr49sAlYgft34_GgZ6OYo",
+            "thumbnail": "https://serpapi.com/searches/6867e442e171b9b6ebe2f07c/images/1888ad765894996f34298f596e1b2b844da5682722a6a47cc454f6b3f91357bc.jpeg",
+            "service_options": {
+                "dine_in": true,
+                "takeaway": true
+            },
+            "place_id": "249401131162874922",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=249401131162874922&q=Restaurant&start=60",
+            "gps_coordinates": {
+                "latitude": 42.651585,
+                "longitude": 21.16617
+            },
+            "title": "VELA Fish Restaurant",
+            "type": "Restaurant",
+            "address": "M528+JFM, Xheladin Rekaliu"
+        }
+    ],
+    "pagination": {
+        "current": 4,
+        "next": "https://www.google.com/search?q=Restaurant&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=80&tbm=lcl",
+        "previous": "https://www.google.com/search?q=Restaurant&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=40&tbm=lcl",
+        "other_pages": {
+            "1": "https://www.google.com/search?q=Restaurant&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=0&tbm=lcl",
+            "2": "https://www.google.com/search?q=Restaurant&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=20&tbm=lcl",
+            "3": "https://www.google.com/search?q=Restaurant&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=40&tbm=lcl",
+            "5": "https://www.google.com/search?q=Restaurant&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=80&tbm=lcl"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 4,
+        "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Restaurant&start=40&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+        "previous": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Restaurant&start=40&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Restaurant&start=80&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Restaurant&start=80&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+        "other_pages": {
+            "1": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Restaurant&start=0&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Restaurant&start=20&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Restaurant&start=40&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Restaurant&start=80&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw"
+        }
+    }
+}
