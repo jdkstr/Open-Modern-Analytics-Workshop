@@ -1,5 +1,7 @@
 # Open Modern Analytics Workshop
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jdkstr/Open-Modern-Analytics-Workshop)
+
 ## Introduction
 This workshop has its objective to inspire people with the latest open and modern data analytics technologies and how to design the right architectures.
 
