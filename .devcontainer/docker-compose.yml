@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  app:
+    image: ubuntu:22.04
+    volumes:
+      - ..:/workspace:cached
+    command: sleep infinity
+    network_mode: service:metabase
+
+  metabase:
+    image: metabase/metabase:latest
+    container_name: metabase
+    ports:
+      - "3000:3000"
+    volumes:
+      - metabase-data:/metabase-data
+    restart: unless-stopped
+
+volumes:
+  metabase-data: 
