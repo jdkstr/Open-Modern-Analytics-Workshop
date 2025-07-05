@@ -12,5 +12,5 @@
     }
   },
 
-  "postCreateCommand": "echo 'Metabase is starting up...' && echo 'Access Metabase at: http://localhost:3000' && echo 'Preconfigured credentials: admin@workshop.com / workshop123'"
+  "postCreateCommand": "echo 'Metabase is starting up...' && echo 'Access Metabase at: http://localhost:3000' "
 } 

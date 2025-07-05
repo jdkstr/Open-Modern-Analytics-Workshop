@@ -14,9 +14,6 @@ services:
     ports:
       - "3000:3000"
     environment:
-      MB_ADMIN_EMAIL: admin@workshop.dev
-      MB_ADMIN_PASSWORD: workshop123!
-      MB_ENCRYPTION_SECRET_KEY: s3cr3t-k3y!
       JAVA_OPTS: "-Xmx2g"
     volumes:
       - metabase-data-v2:/metabase-data
