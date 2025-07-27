@@ -2,7 +2,9 @@ version: '3.8'
 
 services:
   app:
-    image: ubuntu:22.04
+    build: 
+      context: .
+      dockerfile: Dockerfile
     volumes:
       - ..:/workspace:cached
     command: sleep infinity
