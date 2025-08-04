@@ -1,0 +1,385 @@
+{
+    "search_metadata": {
+        "id": "6867f58ea289710dcf3ea48f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e3f0d0cce2c8410a/6867f58ea289710dcf3ea48f.json",
+        "created_at": "2025-07-04 15:38:54 UTC",
+        "processed_at": "2025-07-04 15:38:54 UTC",
+        "google_local_url": "https://www.google.com/search?q=Coffee&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&tbm=lcl",
+        "raw_html_file": "https://serpapi.com/searches/e3f0d0cce2c8410a/6867f58ea289710dcf3ea48f.html",
+        "total_time_taken": 3.92
+    },
+    "search_parameters": {
+        "engine": "google_local",
+        "q": "Coffee",
+        "location_requested": "Prishtina, Pristina District, Kosovo",
+        "location_used": "Prishtina,Pristina District,Kosovo",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "de",
+        "device": "desktop"
+    },
+    "local_results": [
+        {
+            "position": 1,
+            "rating": 4.9,
+            "reviews": 158,
+            "reviews_original": "(158)",
+            "lsig": "AB86z5U-pSAyfo30lztdUc25lx9e",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b96c24707d286def2eb8a768ad27776066a661b1623ff9519.jpeg",
+            "place_id": "4333347444629616077",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=4333347444629616077&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.65882,
+                "longitude": 21.159815
+            },
+            "title": "Newborn Brew",
+            "type": "Coffee shop",
+            "address": "M555+GW, 1000 Johan V. Hahn"
+        },
+        {
+            "position": 2,
+            "rating": 5,
+            "reviews": 14,
+            "reviews_original": "(14)",
+            "lsig": "AB86z5WTveK3V3RKexylya_YgsC6",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b3b717327e7049bb78d6aba50726bcf7d155ec310895ab113.jpeg",
+            "place_id": "9494587339431318765",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=9494587339431318765&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.66393,
+                "longitude": 21.166359
+            },
+            "title": "COZY coffee & more",
+            "type": "Coffee shop",
+            "address": "29 Bajram Kelmendi"
+        },
+        {
+            "position": 3,
+            "rating": 4.7,
+            "reviews": 84,
+            "reviews_original": "(84)",
+            "lsig": "AB86z5XnFO0sAmxZGHNLEhWlPsIJ",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861bfd4b971e18c61cb13ca08e298be0b60100bc99204737d08e.jpeg",
+            "place_id": "12213981304328185088",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=12213981304328185088&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.659676,
+                "longitude": 21.160961
+            },
+            "title": "Dielli bakery & caffe",
+            "type": "Coffee shop",
+            "address": "M556+V9G, Zahir Pajaziti"
+        },
+        {
+            "position": 4,
+            "rating": 5,
+            "reviews": 44,
+            "reviews_original": "(44)",
+            "lsig": "AB86z5Xe9m-BThm3DUxrkYtHFT2g",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b53a1d395d133d1afe7f702ff6b53472043a2ed3879059b7a.jpeg",
+            "place_id": "9403363098807766385",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=9403363098807766385&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.655403,
+                "longitude": 21.151522
+            },
+            "title": "Pristine Pour - Specialty Coffee Roasters",
+            "type": "Coffee shop",
+            "address": "Icon Tower"
+        },
+        {
+            "position": 5,
+            "rating": 5,
+            "reviews": 24,
+            "reviews_original": "(24)",
+            "lsig": "AB86z5UvwrBqq15icfDnXvMQ4GVn",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861beee372b33f32f9bfd0f16535082139b4823178cddd881b42.jpeg",
+            "place_id": "10326227232481275570",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=10326227232481275570&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.66185,
+                "longitude": 21.159851
+            },
+            "title": "Kafeinë Coffee Company",
+            "type": "Coffee shop",
+            "address": "St, 92 Luan Haradinaj"
+        },
+        {
+            "position": 6,
+            "rating": 4.9,
+            "reviews": 70,
+            "reviews_original": "(70)",
+            "lsig": "AB86z5Wh-iBVIH5gdAAlS7Em8g26",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861bcfc37730c6e511e445888cac2bb8f56d92273194a32a92a7.jpeg",
+            "place_id": "112854241780877656",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=112854241780877656&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.666176,
+                "longitude": 21.166504
+            },
+            "title": "LAVJERRS CAFE",
+            "type": "Coffee shop",
+            "address": "1 Hamdi Mramori"
+        },
+        {
+            "position": 7,
+            "rating": 4.2,
+            "reviews": 22,
+            "reviews_original": "(22)",
+            "lsig": "AB86z5VEIk3Wm5kGg28ZkEHxPGmR",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b3d2eb10e604b33824d6a60599c3eb0beb5c56e94358aef7b.jpeg",
+            "place_id": "7125793101452032994",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=7125793101452032994&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.657555,
+                "longitude": 21.154448
+            },
+            "title": "âme cafe & eatery",
+            "type": "Coffee shop",
+            "address": "Robert Doll"
+        },
+        {
+            "position": 8,
+            "rating": 4.8,
+            "reviews": 24,
+            "reviews_original": "(24)",
+            "lsig": "AB86z5VIXSoDH16FCT_yTiYHBKRt",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b921e0e4e07ddfec042321f59c871857670b4708d5e07de57.jpeg",
+            "place_id": "149957234221291982",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=149957234221291982&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.66099,
+                "longitude": 21.164148
+            },
+            "title": "Takeaway Coffeeshop",
+            "type": "Coffee shop",
+            "address": "76 Qamil Hoxha"
+        },
+        {
+            "position": 9,
+            "rating": 4.8,
+            "reviews": 21,
+            "reviews_original": "(21)",
+            "lsig": "AB86z5XK-WJCYyo44wTkQ1BsuThb",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b756658bb5731c2c6c9682d755265edf5e52408a65b8140bf.jpeg",
+            "place_id": "2626266656546448355",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=2626266656546448355&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.6653,
+                "longitude": 21.157698
+            },
+            "title": "Luleborë - Coffee & More",
+            "type": "Coffee shop",
+            "address": "Rruga UÇK"
+        },
+        {
+            "position": 10,
+            "rating": 4.8,
+            "reviews": 17,
+            "reviews_original": "(17)",
+            "lsig": "AB86z5VRGq1_Zo1lCUip74C5RdWY",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861bf613b8cec93692ccdef97e1a9b0cb3952bcac7548e0e2274.jpeg",
+            "place_id": "9512995102062140524",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=9512995102062140524&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.661327,
+                "longitude": 21.159428
+            },
+            "title": "AJK Coffee & Eatery",
+            "type": "Coffee shop",
+            "address": "Luan Haradinaj"
+        },
+        {
+            "position": 11,
+            "rating": 4.8,
+            "reviews": 11,
+            "reviews_original": "(11)",
+            "lsig": "AB86z5WRBuMc3_tWrSBolzT_Qnqu",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b11ef218f7dfc1cbba21072348ad938888792ee839c30dc7e.jpeg",
+            "place_id": "3334076258044931015",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=3334076258044931015&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.66317,
+                "longitude": 21.160551
+            },
+            "title": "Cafe Mocca",
+            "type": "Coffee shop",
+            "address": "138 Luan Haradinaj"
+        },
+        {
+            "position": 12,
+            "rating": 5,
+            "reviews": 1,
+            "reviews_original": "(1)",
+            "lsig": "AB86z5UNv92jwIlZIy1f2URhCWcG",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b6d57db653b2deee5fad856b0ec6e4d665a95b281c0302367.jpeg",
+            "place_id": "1239269575376584854",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=1239269575376584854&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.661274,
+                "longitude": 21.169012
+            },
+            "title": "Serenata Caffè",
+            "type": "Coffee shop",
+            "address": "Parku i Qytetit"
+        },
+        {
+            "position": 13,
+            "rating": 5,
+            "reviews": 14,
+            "reviews_original": "(14)",
+            "lsig": "AB86z5U5Uyhbjk6DgRmMz-laN8tL",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861bc6f50c9104a1fd51a2b9f968a524c3f6e78311ffc130a975.jpeg",
+            "place_id": "9339972287879231906",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=9339972287879231906&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.664566,
+                "longitude": 21.16758
+            },
+            "title": "SmilePizzaCaffe",
+            "type": "Coffee shop",
+            "address": "Dodona 1, 35 Bajram Kelmendi"
+        },
+        {
+            "position": 14,
+            "rating": 3.5,
+            "reviews": 77,
+            "reviews_original": "(77)",
+            "lsig": "AB86z5V1b9OGfArbL_smAzCHV-0J",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b8fbe431f3349bf9bd8836f733e7b9342e3a1a2de8ead6685.jpeg",
+            "place_id": "7615333571384183495",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=7615333571384183495&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.657368,
+                "longitude": 21.159765
+            },
+            "title": "Espressolab Kosova",
+            "type": "Coffee shop",
+            "address": "Sheshi Xhorxh Bush Te Katedralja"
+        },
+        {
+            "position": 15,
+            "rating": 4.7,
+            "reviews": 23,
+            "reviews_original": "(23)",
+            "lsig": "AB86z5V_-8DwKBd3ggcHTYWNLvzb",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b3868f6a1281af4bab79a500362af8c3fe3f4deecd83fee80.jpeg",
+            "place_id": "10101070375157629439",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=10101070375157629439&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.658,
+                "longitude": 21.14758
+            },
+            "title": "FRIDA flower & coffee shop",
+            "type": "Coffee shop",
+            "address": "Veranda C2.7, Hyrja 1, Arbëria 3"
+        },
+        {
+            "position": 16,
+            "rating": 4.2,
+            "reviews": 25,
+            "reviews_original": "(25)",
+            "lsig": "AB86z5WiZr42NT_cZMbPzg1odkG9",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b14f4becebb8350eb25c00d3f11723fcb3b9ec76830c95928.jpeg",
+            "place_id": "12170459933689445441",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=12170459933689445441&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.66481,
+                "longitude": 21.164444
+            },
+            "title": "Sachcaffé - Union Center",
+            "type": "Coffee shop",
+            "address": "Bulevardi Nënë Tereza"
+        },
+        {
+            "position": 17,
+            "rating": 4.9,
+            "reviews": 8,
+            "reviews_original": "(8)",
+            "lsig": "AB86z5XGIm04ZbR1k_B377fZf85L",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b54d49ee3f84cf76c89ca18496b188a1f796c37b3be166648.jpeg",
+            "place_id": "4251287147359443723",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=4251287147359443723&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.66,
+                "longitude": 21.170761
+            },
+            "title": "INNA",
+            "type": "Coffee shop",
+            "address": "121 Adrian Krasniqi"
+        },
+        {
+            "position": 18,
+            "rating": 4.2,
+            "reviews": 46,
+            "reviews_original": "(46)",
+            "lsig": "AB86z5U-zqEzQlKVE_EKdKgBpfoW",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b09e3828065f7b5605ef30ae7871c2264d86280222b04a8e5.jpeg",
+            "place_id": "13704382392226972693",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=13704382392226972693&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.660145,
+                "longitude": 21.149544
+            },
+            "title": "Sach Caffe 2",
+            "type": "Coffee shop",
+            "address": "Lagjia Arberi, Objekti C1-B, Rruga Viicijanum"
+        },
+        {
+            "position": 19,
+            "rating": 4.5,
+            "reviews": 178,
+            "reviews_original": "(178)",
+            "lsig": "AB86z5VjpvwreFjg4Yf6sLAd-vR0",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b9273898669ed42bca84a7f9163cb2c972020d0eac30180db.jpeg",
+            "place_id": "9131848085162178107",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=9131848085162178107&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.661667,
+                "longitude": 21.161945
+            },
+            "title": "Half & Half Café",
+            "type": "Cafe",
+            "address": "M566+MQ8, Bulevardi Nënë Tereza"
+        },
+        {
+            "position": 20,
+            "rating": 5,
+            "reviews": 8,
+            "reviews_original": "(8)",
+            "lsig": "AB86z5VY8XgiVNfgy4BZe6aCc84E",
+            "thumbnail": "https://serpapi.com/searches/6867f58ea289710dcf3ea48f/images/fcea8ffca5da861b719272182dc826ca6c91330c03126587bf359b57fddb0f0e.jpeg",
+            "place_id": "10561615967091927305",
+            "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&ludocid=10561615967091927305&q=Coffee",
+            "gps_coordinates": {
+                "latitude": 42.662296,
+                "longitude": 21.161457
+            },
+            "title": "Journal Lounge",
+            "type": "Coffee shop",
+            "address": "Rexhep Luci"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Coffee&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=20&tbm=lcl",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Coffee&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=20&tbm=lcl",
+            "3": "https://www.google.com/search?q=Coffee&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=40&tbm=lcl",
+            "4": "https://www.google.com/search?q=Coffee&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=60&tbm=lcl",
+            "5": "https://www.google.com/search?q=Coffee&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw&hl=en&gl=de&start=80&tbm=lcl"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Coffee&start=20&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Coffee&start=20&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Coffee&start=20&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Coffee&start=40&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Coffee&start=60&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=de&google_domain=google.com&hl=en&location=Prishtina%2C+Pristina+District%2C+Kosovo&q=Coffee&start=80&uule=w+CAIQICIiUHJpc2h0aW5hLFByaXN0aW5hIERpc3RyaWN0LEtvc292bw"
+        }
+    }
+}
