@@ -7,4 +7,4 @@ This workshop has its objective to inspire people with the latest open and moder
 
 More specifically, a distinction is made between two typical scenarios: batch and real-time data processing and analytics.
 
-The workshop details are hosted at https://data.wiki/workshops/open-modern-analytics.
+The workshop details are hosted at [https://data.wiki/workshops/open-modern-analytics](https://data.wiki/projects/open-modern-analytics/intro).
